@@ -1,0 +1,6 @@
+server:
+    port: 9001
+spring:
+    application:
+        name: OAuth2-Resource-Server
+jwksUri: http://localhost:9000/oauth2/jwks
